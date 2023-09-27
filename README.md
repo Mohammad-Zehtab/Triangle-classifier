@@ -1,0 +1,2 @@
+# Triangle classifier
+demonstrating the implementation and visualization of a neural network consisting of three perceptrons to form a triangle classifier and a fourth neuron for logical operations. The code involves defining the weights and biases of the perceptrons, plotting the triangle formed by these neurons, implementing a perceptron learning algorithm, and testing the network with various patterns. Additionally, the code generates random points and classifies them as either inside or outside the triangle.
